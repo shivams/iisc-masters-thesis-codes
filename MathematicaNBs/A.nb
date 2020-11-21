@@ -1,0 +1,56 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      1385,         46]
+NotebookOptionsPosition[      1130,         32]
+NotebookOutlinePosition[      1488,         48]
+CellTagsIndexPosition[      1445,         45]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"SetOptions", "[", 
+  RowBox[{
+   RowBox[{"EvaluationNotebook", "[", "]"}], ",", 
+   RowBox[{"CellContext", "\[Rule]", "Notebook"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.71047003423416*^9, 3.710470215603243*^9}, {
+   3.7104703384221287`*^9, 3.710470383597323*^9}, 3.7104704538667307`*^9, {
+   3.7104711629184732`*^9, 3.7104712210975523`*^9}, {3.710471569542103*^9, 
+   3.710471593591457*^9}, {3.710471629657379*^9, 3.710471656359256*^9}, {
+   3.7104717677133102`*^9, 3.710471824573296*^9}, {3.7105109923383102`*^9, 
+   3.710511027042428*^9}}]
+},
+WindowSize->{1366, 665},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+CellContext->Notebook,
+FrontEndVersion->"9.0 for Linux x86 (64-bit) (February 7, 2013)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[557, 20, 569, 10, 32, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
